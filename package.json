@@ -1,0 +1,26 @@
+{
+  "name": "bolillo_tea_aps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bensaksimpp/bolillo_tea_aps.git"
+  },
+  "dependencies": {
+    "rrlol45redg_tea": "1.0.0",
+    "teammmmUkra": "1.0.0",
+    "tea_emotio45HE": "1.0.0",
+    "tea4344ea-tomera": "1.0.0",
+    "tea55loerder": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bensaksimpp/bolillo_tea_aps/issues"
+  },
+  "homepage": "https://github.com/bensaksimpp/bolillo_tea_aps#readme"
+}
